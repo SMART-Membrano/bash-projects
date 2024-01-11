@@ -1,0 +1,3 @@
+_ErrorColor_="/033[1;37;41m" #color red
+_SucessColor_="\033[1;32m" #color green
+_EndColor_="\033[0m"
